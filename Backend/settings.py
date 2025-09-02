@@ -73,7 +73,7 @@ SIMPLE_JWT = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # React frontend URL
+    "https://pinterestclone-frontend.vercel.app/",  # React frontend URL
 ]
 
 REST_FRAMEWORK = {
